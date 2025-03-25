@@ -10,7 +10,3 @@ This repository contains an **SQL project** that creates a structured **video ga
 ## Files
 - **Game_database.sql** → Full SQL script (Database creation, table structure, sample data, and queries).
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/PooriaKhorrami/SQL-Game-Database.git
